@@ -34,7 +34,7 @@ function multiply(a, b){
     - Stepik Course "Generation Python": a course for beginners"
     - RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
 
-## **English**
+## **Languages**
+- Russian - Native
 - English - Intermediate/Upper-intermediate (according to the online test [www.efset.org](https://www.efset.org/quick-check/))
 ![Alt text](image.png)
-- Russian - Native
